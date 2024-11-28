@@ -47,11 +47,10 @@
 ---
 
 ### 📈 Stats
-![Aymen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AymenBelhadj&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AymenBelhadj&layout=compact&theme=radical&count_private=true)
-
-> *Private contributions are included in the stats above.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AymenBelhadj&show_icons=true&theme=radical" alt="Aymen's GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymenBelhadj&theme=radical" alt="GitHub Streak">
+</p>
 
 ---
 
