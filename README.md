@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Aymen Belhadj</h1>
+<h1 align="center">Hi there! 👋 I'm Aymen BELHADJ</h1>
 
 <p align="center">
   <b>🎓 Computer Science Student | 🌐 Web Developer | 💡 Tech Enthusiast</b>
@@ -13,11 +13,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌍 Based in **Tunis, Tunisia** 🇹🇳  
+- 🌍 Based in **Tunis, Tunisia** 
 - 📖 Third-year **Computer Science Student** at the Faculty of Sciences of Tunis  
 - 💡 Passionate about **Web Development**, **AI**, and **DevOps**  
 - 🔍 Currently looking for a **Final Year Internship** in IT/Web Development  
-- 🏆 Ranked **6th out of 100+ students** in my first two years  
 
 ---
 
@@ -83,13 +82,6 @@
 
 ---
 
-### 🏗️ Projects
-- 🚗 **Carpooling Web Application** using the MERN stack  
-- 📚 **Online Library Desktop App** built with Java  
-- 🧾 **Macompta**: Redesigned front-end for a virtual accounting firm ([Macompta Website](https://www.macompta.com.tn))  
-
----
-
 ### 📬 Contact Me
 - 📧 **Email:** [aymen.belhadj0123@gmail.com](mailto:aymen.belhadj0123@gmail.com)  
 - 🌐 **LinkedIn:** [Aymen Belhadj](https://www.linkedin.com/in/aymen-belhadj-43bb8b242/)  
@@ -98,10 +90,10 @@
 ---
 
 ### 🌟 Languages
+- 🇦🇪 **Arabic:** Native speaker  
 - 🇫🇷 **French:** Professional proficiency  
 - 🇬🇧 **English:** Professional proficiency  
 - 🇩🇪 **German:** Basic knowledge  
-- 🇦🇪 **Arabic:** Native speaker  
 
 ---
 
