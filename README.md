@@ -80,7 +80,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymenBelhadj&theme=radical" alt="GitHub Streak">
 </p>
 
-<p align="center"><i>*Private contributions are not included in the stats above.*</i></p>
+<p align="center"><i>*Private commits are not included in the stats above.*</i></p>
 
 
 ---
