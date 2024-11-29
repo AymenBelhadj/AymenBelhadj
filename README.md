@@ -93,8 +93,8 @@
 ---
 
 ### 🌟 Languages
-- 🇦🇪 **Arabic:** Native speaker  
-- 🇫🇷 **French:** Professional proficiency  
+- 🇹🇳 🇵🇸 **Arabic:** Native speaker  
+- 🇫🇷 **French:** Professional proficiency 
 - 🇬🇧 **English:** Professional proficiency  
 - 🇩🇪 **German:** Basic knowledge  
 
