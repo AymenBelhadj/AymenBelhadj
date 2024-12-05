@@ -77,7 +77,7 @@
 ### 📈 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AymenBelhadj&show_icons=true&theme=radical" alt="Aymen's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymenBelhadj&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymenBelhadj&theme=default" alt="GitHub Streak">
 </p>
 
 <p align="center"><i>*Private commits are not included in the stats above.*</i></p>
