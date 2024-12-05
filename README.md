@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/AymenBelhadj"><img src="https://img.shields.io/github/followers/AymenBelhadj?label=Follow&style=social"></a>
   <a href="https://www.linkedin.com/in/aymen-belhadj-43bb8b242/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:aymen.belhadj0123@gmail.com"><img src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
