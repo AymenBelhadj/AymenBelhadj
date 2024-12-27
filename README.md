@@ -73,14 +73,20 @@
 
 ---
 
-### 📈 Stats
+📈 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AymenBelhadj&show_icons=true&theme=radical" alt="Aymen's GitHub stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymenBelhadj&theme=radical" alt="GitHub Streak">
 </p>
-
-<p align="center"><i>*Private commits are not included in the stats above.*</i></p>
-
+👨‍💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenBelhadj&layout=compact&theme=radical" alt="Top Languages">
+</p>
+📊 Additional Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AymenBelhadj&color=blueviolet" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/AymenBelhadj?style=social" alt="GitHub Followers">
+</p>
 
 ---
 
