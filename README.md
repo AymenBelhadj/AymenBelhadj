@@ -14,8 +14,8 @@
 ### 👨‍💻 About Me
 - 🌍 Based in **Tunis, Tunisia** 
 - 📖 Third-year **Computer Science Student** at the Faculty of Sciences of Tunis  
+- 💼 Software engineer intern at NeoXam Tunisia 
 - 💡 Passionate about **Web Development**, **AI**, and **DevOps**  
-- 🔍 Currently looking for a **Final Year Internship** in IT/Web Development  
 
 ---
 
